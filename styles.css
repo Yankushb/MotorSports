@@ -1,0 +1,178 @@
+.top-container{
+  background-color: #BBDED6;
+  height: 610px;
+  width: 1349px;
+  position: relative;
+  bottom: 9px;
+  right: 8px;
+}
+
+h1{
+  color: #FB6D48;
+}
+
+.beasts{
+  position: absolute;
+  top: 30px;
+  right: 270px;
+  text-decoration: none;
+}
+
+.about-us{
+  position: absolute;
+  top: 30px;
+  right: 160px;
+  text-decoration: none;
+}
+
+.contact-us{
+  position: absolute;
+  top: 30px;
+  right: 40px;
+  text-decoration: none;
+}
+
+a{
+  font-size: 22px;
+  color: black;
+}
+
+a:hover{
+  color: red;
+}
+
+.yankee{
+  font-family: "Trade Winds", system-ui;
+  font-weight: 400;
+  font-size: 4.5rem;
+  font-style: normal;
+  position: absolute;
+  left: 85px;
+  top: 20px;
+}
+
+.motorsports{
+  font-family: "Trade Winds", system-ui;
+  font-weight: 400;
+  font-size: 4.5rem;
+  font-style: normal;
+  position: absolute;
+  top: 90px;
+  left:165px;
+}
+
+.slogan{
+  font-size: 1.8rem;
+  font-family: "Dekko", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  top: 80px;
+  right: 200px;
+}
+
+.race-track{
+  height: 100%;
+  width: 100%;
+  position:absolute;
+  top: 37px;
+}
+
+.lamborghini{
+  width: 50%;
+  position: absolute;
+  top: 230px;
+  left: 1px;
+}
+
+.kawasaki{
+  width: 35%;
+  position: absolute;
+  top: 260px;
+  right: 420px;
+}
+
+.ferrari{
+  float: right;
+  width: 50%;
+  position: absolute;
+  top: 210px;
+  right: 1px;
+}
+
+.middle-container{
+  position: relative;
+  bottom: 9px;
+  right: 8px;
+  background-color: #31363F;
+  height: 610px;
+  width: 1349px;
+
+  .browse-all-cars{
+    font-size: 1.6rem;
+    text-decoration: none;
+    position: absolute;
+    bottom: 30px;
+    right: 450px;
+  }
+
+.whatever{
+  color: white;
+  font-size: 1.8rem;
+  font-family: "Dekko", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  top: 10px;
+  left: 650px;
+}
+
+.we-got{
+  color: white;
+  font-size: 1.8rem;
+  font-family: "Dekko", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  top: 70px;
+  left: 370px;
+}
+
+span{
+  text-decoration: line-through;
+}
+
+.text-1{
+  font-size: 1.7rem;
+  color: white;
+  position: absolute;
+  top: 190px;
+  left: 400px;
+}
+
+.koenigsegg{
+  position: absolute;
+  top: 70px;
+  right: 50px;
+  width: 40%;
+}
+
+.text-2{
+  font-size: 1.7rem;
+  color: white;
+  position: absolute;
+  top: 390px;
+  right: 350px;
+}
+
+.mustang{
+  position: absolute;
+  top: 330px;
+  left: 50px;
+  width: 40%;
+}
+
+.bottom-container{
+  background-color: #ACE2E1;
+  padding: 50px 0 20px;
+}
